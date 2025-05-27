@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Hola soy Gonzalo Murua</h1>
+<h1 align="center">👋, Hola soy Gonzalo Murua</h1>
 <h3 align="center">Fullstack developer de Argentina</h3>
 
 <h3 align="center"> ¿Quién soy?</h3>
